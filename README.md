@@ -1,2 +1,3 @@
-# streaming-word-count
-streaming-word-count by Kafka-Spark
+# streaming-structured-tutorial
+streaming-structured-tutorial by Kafka-Spark
+
